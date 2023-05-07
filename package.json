@@ -1,0 +1,15 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "A website that can be used by hotels to market foods that are available",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
